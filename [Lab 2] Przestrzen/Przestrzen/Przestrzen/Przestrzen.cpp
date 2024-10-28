@@ -91,12 +91,32 @@ public:
 
 int main()
 {
+    // Przemiennosc
+    Vector v1(2, 3, 4);
+    Vector v2(5, 6, 7);
+    Vector sum1 = v1 + v2;
+    Vector sum2 = v2 + v1;
 
+    if (sum1.getInfo() == sum2.getInfo())
+        cout << "Przemiennosc dziala - suma: " << sum1.getInfo() << endl;
+    else
+        cout << "Przemiennosc nie dziala" << endl;
+
+    // Kat pomiedzy wektorami
+    Vector v3(0, 3, 0);
+    Vector v4(5, 5, 0);
+    double angle = v3.angleBetween(v4);
+    cout << "Kat pomiedzy " << v3.getInfo() << " a " << v4.getInfo() << " wynosi: " << angle << endl;
+
+    // Wektor prostopadły
     Vector v5(4, 5, 1);
     Vector v6(4, 1, 3);
-    Vector cross = v5.crossProduct(v6);
+    Vector perpendicular = v5.crossProduct(v6);
+    cout << "Wektor prostopadly do " << v5.getInfo() << " i " << v6.getInfo() << " wynosi: " << perpendicular.getInfo() << endl;
 
-    cout << "Wektor prostopadly to: " << cross.getInfo() << "\n";
+    // Normalizacja
+    Vector normalized = perpendicular.normalize();
+    cout << "Znormalizowany wektor prostopadly: " << normalized.getInfo() << endl;
 
     return 0;
 }
