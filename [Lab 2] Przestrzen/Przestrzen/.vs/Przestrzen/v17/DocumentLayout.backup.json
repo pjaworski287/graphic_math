@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\Matematyka\\[Lab 2] Przestrzen\\Przestrzen\\",
+  "WorkspaceRootPath": "D:\\Projects\\Matematyka\\graphic_math\\[Lab 2] Przestrzen\\Przestrzen\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6660ECF1-0C12-43A9-8D91-C7B61790205E}|Przestrzen\\Przestrzen.vcxproj|D:\\Projects\\Matematyka\\[Lab 2] Przestrzen\\Przestrzen\\Przestrzen\\Przestrzen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6660ECF1-0C12-43A9-8D91-C7B61790205E}|Przestrzen\\Przestrzen.vcxproj|D:\\Projects\\Matematyka\\graphic_math\\[Lab 2] Przestrzen\\Przestrzen\\Przestrzen\\Przestrzen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6660ECF1-0C12-43A9-8D91-C7B61790205E}|Przestrzen\\Przestrzen.vcxproj|solutionrelative:Przestrzen\\Przestrzen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Przestrzen.cpp",
-              "DocumentMoniker": "D:\\Projects\\Matematyka\\[Lab 2] Przestrzen\\Przestrzen\\Przestrzen\\Przestrzen.cpp",
+              "DocumentMoniker": "D:\\Projects\\Matematyka\\graphic_math\\[Lab 2] Przestrzen\\Przestrzen\\Przestrzen\\Przestrzen.cpp",
               "RelativeDocumentMoniker": "Przestrzen\\Przestrzen.cpp",
-              "ToolTip": "D:\\Projects\\Matematyka\\[Lab 2] Przestrzen\\Przestrzen\\Przestrzen\\Przestrzen.cpp",
+              "ToolTip": "D:\\Projects\\Matematyka\\graphic_math\\[Lab 2] Przestrzen\\Przestrzen\\Przestrzen\\Przestrzen.cpp",
               "RelativeToolTip": "Przestrzen\\Przestrzen.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAqwHkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-08T11:52:23.757Z",
               "EditorCaption": ""
