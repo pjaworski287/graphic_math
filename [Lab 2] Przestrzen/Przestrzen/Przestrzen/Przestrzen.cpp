@@ -26,7 +26,7 @@ public:
         return "Directions [x,y,z] - [" +
             std::to_string(getX()) + ", " + 
             std::to_string(getY()) + ", " + 
-            std::to_string(getX()) + "]";
+            std::to_string(getZ()) + "]";
     }
 
     // Setters
@@ -63,8 +63,8 @@ public:
         if (len1 == 0 || len2 == 0)
             throw invalid_argument("To calculate angle between vectors, neither of them can have the lenght equal to zero!");
 
-        double cosTheta = dot / (len1 * len2);
-        return acos(cosTheta);
+        double cos = dot / (len1 * len2);
+        return acos(cos);
     }
     Vector crossProduct(const Vector& v) const {
         return Vector(

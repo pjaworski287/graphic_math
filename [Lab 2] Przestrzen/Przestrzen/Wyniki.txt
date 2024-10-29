@@ -1,0 +1,4 @@
+Przemienność dodawania - działa (suma: [7,9,7])
+Kąt pomiędzy [0,3,0] i [5,5,5] wynosi: 0.785398
+Wektor prostopadły do [4,5,4] i [4,1,4] wynosi: [14,-8,-16]
+Znormalizowany wektor prostopadły wynosi [0.616316, -0.352180, 0.704316]
